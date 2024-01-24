@@ -46,7 +46,7 @@ After running the iOS Privacy Report Analyzer and providing the "domain" key, yo
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/iOS-Privacy-Report-Analyzer.git
+git clone https://github.com/Endurance9381/iOS_Privcy_Report_Analyzer/
 
 # Navigate to the project directory
 cd iOS-Privacy-Report-Analyzer
